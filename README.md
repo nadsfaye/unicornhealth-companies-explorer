@@ -45,14 +45,6 @@ The notebook walks through loading, inspection, cleaning, country and continent 
 
 Your SQL cell already makes its results available as `df`. Add a Python cell below it and use the quick-start code from the accompanying chat. The current SQL query has `LIMIT 10`, so it analyzes only those 10 returned rows. To analyze all rows in the table, run `SELECT * FROM companies;` first.
 
-## Put this project on GitHub
-
-1. Unzip the project on your computer.
-2. Create a new repository named `unicorn-companies-explorer` on GitHub.
-3. Choose **Add file → Upload files** and drag in the contents of this folder, including `data/`.
-4. Commit the files. Upload the extracted files rather than the ZIP so visitors can read the notebook and code.
-
-Suggested repository description: **Python portfolio project exploring company geography with pandas and Matplotlib.**
 
 ## Skills demonstrated
 
